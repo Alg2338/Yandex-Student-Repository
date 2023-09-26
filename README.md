@@ -5,6 +5,6 @@
 ```bash
 git init
 git log
-som info about file statuses in git
+some info about file statuses in git
 etc
 ```
